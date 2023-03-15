@@ -1,1 +1,3 @@
 "Before Any Branching"
+
+Line added in branch bugfix1 by Bista
